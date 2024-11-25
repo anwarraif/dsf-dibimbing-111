@@ -2,7 +2,7 @@
 ## dsf heading 2
 ### dsf heading 3
 
-EDA is Exploratory and Explanatory Data Analysis. I'm using Global Super Store from Kaggle.com . Superstores industry comprises of companies that operateby having large size spaces which store and supply large amounts of goods. I'm using The dataset from this link : https://www.kaggle.com/datasets/shekpaul/global-superstore
+EDA is Exploratory and Explanatory Data Analysis. I'm using Global Super Store from Kaggle.com . Superstores industry comprises of companies that operateby having large size spaces which store and supply large amounts of goods. Link dataset for this project : https://docs.google.com/spreadsheets/d/1FYGL0CgsEm1PaLwYX4kIkFRNqvshr1jM/edit?usp=sharing&ouid=113728901817848496836&rtpof=true&sd=true 
 
 The superstore industry is comprised of extensive stores that sell a typical product line of grocery items and merchandise products, such as food, games, pharmaceuticals, apparel, toys, furniture, technology, and appliances.
 
